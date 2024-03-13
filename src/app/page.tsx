@@ -9,6 +9,7 @@ export default function Home() {
   function handleMouseOver(){
     alert("Eits, mau pencet tombol ya?");
   }
+  
   return (
     <button 
       className="bg-blue-500 hover:bg-blue-700 text-white p-2 rounded"
